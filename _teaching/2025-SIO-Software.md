@@ -12,3 +12,5 @@ SIO Workshop held August 19-21, 2025.
 
 Content
 ======
+
+See [Workshop Website](https://eldavenport.github.io/SIO-PythonEarthScience/index.html).
