@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ellen Davenport's Personal Site"
+title                    : "Ellen Davenport"
 title_separator          : "-"
-name                     : &name "Ellen Davenport"
+name                     : &name "Ellen Davenport's Site"
 description              : &description "PhD Candidate at Scripps Institution of Oceanography"
 url                      : https://eldavenport.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
