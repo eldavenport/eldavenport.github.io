@@ -1,5 +1,5 @@
 ---
-title: "A Landmark-Aided Naviation Method Side-Scan Sonar"
+title: "A Landmark-Aided Naviation Method with Side-Scan Sonar"
 collection: publications
 category: manuscripts
 permalink: /publication/JOE_paper_sonar
