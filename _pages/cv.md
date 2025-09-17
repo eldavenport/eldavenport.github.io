@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Link to my [CV](https://eldavenport.github.io/files/Resume_Davenport.pdf).
+Link to my [CV](https://eldavenport.github.io/files/Davenport_CV_0925.pdf).
