@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Scripps Institution of Oceanography. I received my B.A. (2016) and B.E. (2017) in Engineering and French from Dartmouth College. For four years I worked as an embedded software engineer at Sarcos Robotics in Salt Lake City, UT. I received my M.S. in Electrical Engineering from UCSD in 2023 and expect to graduate with my PhD in Oceanography in May 2026. 
+I am a data assimilation scientist and oceanographer. I recently completed my PhD at the Scripps Institution of Oceanography. I received my B.A. (2016) and B.E. (2017) in Engineering and French from Dartmouth College. For four years I worked as an embedded software engineer at Sarcos Robotics in Salt Lake City, UT. I received my M.S. in Electrical Engineering from UCSD in 2023 and expect to graduate with my PhD in Oceanography in May 2026. 
 
 My research combines computational science and fluid dynamics. As an example, I use optimization methods to solve inverse problems in ocean models. Most recently I have been working on data assimilation in a regional model of the Equatorial Pacific Ocean where we work to improve representation of the Pacific Cold Tongue. I am also a software developer on an automatically-differentiable atmospheric model called the JAX Circulation Model (JCM). I am motivated by the impact of the projects I am involved in as well as the great people I get to work with! I also participate in the group for Chaos, Computation, Analysis and Optimization at SIO ([CaCAO](https://cacao.ucsd.edu/#group)).
 
